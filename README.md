@@ -1,4 +1,4 @@
-[:arrow_left: Back to portfolio](https://github.com/adrien-b-git/Portfolio)
+[:arrow_left: Back to portfolio](https://github.com/adrien-b-git/Portofolio)
 
 # Geometrical Modelling
 
