@@ -1,0 +1,10 @@
+name: curve
+channels:
+  - defaults
+dependencies:
+  - pip
+  - python
+  - pip:
+    - numpy
+    - matplotlib
+  

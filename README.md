@@ -12,6 +12,11 @@ To compute these curves, I implemented several methods to choose from:
 
 The user can set the resolution of the curve, the tension, and display the curvature.
 
-# Code
+# How to install
 
-The source code of the final project is not publicly available because this project will be proposed again next year at ENSIMAG.
+```console
+conda env create -f environment.yml
+conda activate curve
+python3 ./CurveEditor.py
+```
+
